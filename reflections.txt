@@ -1,0 +1,46 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+* What new skills have you learned?
+
+I've learned a lot from Udacity, despite being a Senior Software Engineer. I had no idea <figure> and <figcaption> even existed! This really got me thinking that HTML comes from an academic background, and it makes sense that it was originally used in academia.
+
+I enjoy Udacity because the
+courses focus on fundamentals and are very comprehensive.
+
+Using MDN as element reference is also a really useful skill I learned. I'll be doing this much more often now.
+
+I also enjoy how Udacity highly recommends/enforces using alternative descriptions. Sometimes I've found myself neglecting this in the past, but I
+believe I am getting in the habit of using this now.
+
+I never knew <sub> was for subscript text and that <s> was for strikethrough!
+
+Finally, the most awesome thing ever is the https://validator.w3.org/nu/#textarea HTML validator!
+
+* What has been easy?
+
+Templating out the mock websites. I felt it was pretty straightforward, having done this so many times. Referring to the MDN reference really helped me make
+the footer and source annotation; I love referring to documentation.
+
+* What has been difficult?
+
+There have been a few challenges, such as determining when to use <i> italics and <em>. I've noticed cases where an entire paragraph was italicized, and it confused me whether this is intended to be emphasis or not.
+
+Remembering to add in the alt tag is also pretty difficult and it's a habit I need to get used to.
+
+Remembering the different tags and attributes that go inside <head> has always been scary for me since I was a kid. But I am glad that I finally am getting used to this. <meta> tag has always been so confusing.
+
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+I started referencing the MDN element reference (which is really cool btw). This definitely helped figure out how on earth I'd create a subscript, strikethrough, and a horizontal rule! Documentation is a life saver.
+
+Using alt tags has been helpful.
+
+Finally. I used the https://validator.w3.org/nu/#textarea HTML validator to validate the HTML I made and I got "Document checking completed. No errors or warnings to show."
+
+This is tremendously useful. Thank you guys for teaching me this.
